@@ -23,8 +23,8 @@ timer.invaliate()
 
 
 # Screenshot:
-![screenshot](https://raw.githubusercontent.com/stefan-najdovski/Super-Simple-Pomodoro-Timer-Swift/main/screenshot1.png)
-![screenshot](https://raw.githubusercontent.com/stefan-najdovski/Super-Simple-Pomodoro-Timer-Swift/main/screenshot2.png)
+![screenshot](https://raw.githubusercontent.com/stefan-najdovski/Super-Simple-Pomodoro-Timer-Swift/main/screenshot1.png | width=200)
+![screenshot](https://raw.githubusercontent.com/stefan-najdovski/Super-Simple-Pomodoro-Timer-Swift/main/screenshot2.png | width=200)
 
 <!-- LICENSE -->
 ## Code License
